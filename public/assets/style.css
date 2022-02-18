@@ -1,0 +1,26 @@
+* {
+    /* font-family: 'Cabin', sans-serif; */
+    font-family: 'Work Sans', sans-serif;
+}
+
+.color_inverted{
+    filter: invert(1);
+}
+.brand_color{
+    background-color: #0071bc;
+    
+}
+.brand_button{
+    color: #ffffff;
+    background-color: #0071bc;}
+
+.brand_button_outline{
+    color: #0071bc;
+    border: 1px solid #0071bc;
+}
+.brand_button:hover{
+    background-color: #002e4d;
+}
+.brand_button_outline:hover{
+    color: #ffffff;
+    background-color: #002e4d}
